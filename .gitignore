@@ -140,8 +140,8 @@ ehthumbs.db
 Thumbs.db
 
 
-/ml_models/*.csv
-/ml_data/*.pkl
-/ml_data/*.pickle
+/ml_data/*.csv
+/ml_models/*.pkl
+/ml_models/*.pickle
 input
 lab*
